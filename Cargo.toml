@@ -1,0 +1,3 @@
+[workspace]
+members = ["intomap", "intomap_derive"]
+resolver = "2"
